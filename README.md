@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, I'm Vishav Panesar, but you can call me Vish! 👋</h1>
 
-<p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tegnoorg&show_icons=true&theme=tokyonight&rank_icon=github" alt="Teg's GitHub Stats" />
-</p>
 <h3>About Me</h3>
 <ul align="left">
   <li>🌱 I’m currently learning Haskell, REACT, and Ruby</li>
@@ -10,10 +7,6 @@
   <li>⛳ My hobbies are coding 💻, music 🎵, gaming 🎮, and working out 💪.</li>
 </ul>
 
-
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tegnoorg&show_icons=true&theme=tokyonight&locale=en&layout=donut" alt="Most Used Languages">
-</p>
 
 <h3>Bio</h3>
 <p>  
@@ -45,5 +38,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tegnoorg&theme=tokyonight&locale=en&show_icons=true" alt="Teg Activity Chart">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PanesarV&theme=tokyonight&locale=en&show_icons=true" alt="Vish's Activity Chart">
 </p>
