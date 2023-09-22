@@ -10,7 +10,7 @@
 
 <h3>Bio</h3>
 <p>  
-  👋 Hey there! I'm Vishav Panesar, a software engineering student at Simon Fraser University in Vancouver, Canada. 🇨🇦 My heart beats for basketball, anime, and working out. 💻🏀📺 I'm on a mission to become a full-stack developer and weave tech wonders! 🚀 Let's embark on this coding adventure together! 🌟
+  👋 Hey there! I'm Vishav Panesar, a software engineering student at Simon Fraser University in Vancouver, Canada. Other than coding, I'm passionate about basketball, anime, and working out. 💻🏀📺 I'm on a mission to become a full-stack developer and weave tech wonders! 🚀 Let's embark on this coding adventure together! 🌟
 </p>
 
 
